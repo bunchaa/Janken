@@ -1,0 +1,37 @@
+.title {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: cadetblue;
+}
+
+.container {
+    background-color: lightcyan;
+    height: 700px;
+    width: 500px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 25% auto;
+    margin-top: 20px;
+}
+
+button {
+    color: cadetblue;
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+
+.move {
+    margin-top: 200px;
+    color: cadetblue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.options {
+    margin-top: 10px;
+}
